@@ -1,4 +1,5 @@
 # Data Engineering with Snowpark
+# https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index#0
 
 ### ➡️ For more complete instructions please check out the new [Data Engineering Pipelines with Snowpark Python](https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index#0) Quickstart.
 

@@ -74,3 +74,6 @@ if __name__ == '__main__':
         print(main(session))  # type: ignore
 
     session.close()
+
+    # Deploy using SnowCLI in the terminal: snow procedure create
+    # Test locally in the termainal: snow procedure execute -p "orders_update_sp()"

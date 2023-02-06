@@ -1,4 +1,4 @@
-name: pysnowpark
+name: tko-data-engineering
 channels:
   - https://repo.anaconda.com/pkgs/snowflake
   - nodefaults
