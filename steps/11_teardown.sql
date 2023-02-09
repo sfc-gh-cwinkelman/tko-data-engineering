@@ -6,11 +6,12 @@ Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
 
 
-USE ROLE ACCOUNTADMIN;
+USE ROLE HOL_ROLE;
 
 DROP DATABASE HOL_DB;
 DROP WAREHOUSE HOL_WH;
 DROP ROLE HOL_ROLE;
 
 -- Drop the weather share
+USE ROLE ACCOUNTADMIN;
 DROP DATABASE FROSTBYTE_WEATHERSOURCE;

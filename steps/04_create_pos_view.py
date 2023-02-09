@@ -121,5 +121,5 @@ if __name__ == "__main__":
 
     session.close()
 
-# Deploy using SnowCLI in the terminal: snow function create
-# Test using SnowCLI in the terminal: snow function execute -f "fahrenheit_to_celsius_udf(35)"
+# Run:
+# python 04_create_pos_view.py

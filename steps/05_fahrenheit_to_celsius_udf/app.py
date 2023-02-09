@@ -24,3 +24,10 @@ if __name__ == '__main__':
         print(main(*sys.argv[1:]))  # type: ignore
     else:
         print(main())  # type: ignore
+
+
+# Run:
+# python app.py 45
+
+# Deploy using SnowCLI in the terminal: snow function create
+# Test using SnowCLI in the terminal: snow function execute -f "fahrenheit_to_celsius_udf(35)"
