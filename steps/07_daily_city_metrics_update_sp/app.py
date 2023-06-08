@@ -124,3 +124,10 @@ if __name__ == '__main__':
 
 # Run locally
 # python app.py
+
+# Deploy using SnowCLI in the terminal: 
+# snow procedure create
+
+# Test locally in the termainal: 
+# snow procedure execute -p "daily_city_metrics_update_sp()"
+# ~ 4 min -- If DATE only, run again.
