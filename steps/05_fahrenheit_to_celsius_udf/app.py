@@ -26,8 +26,7 @@ if __name__ == '__main__':
         print(main())  # type: ignore
 
 
-# Run:
-# python app.py 45
 
+# python app.py 212
 # Deploy using SnowCLI in the terminal: snow function create
-# Test using SnowCLI in the terminal: snow function execute -f "fahrenheit_to_celsius_udf(35)"
+# Test using SnowCLI in the terminal: snow function execute -f "fahrenheit_to_celsius_udf(212)"
